@@ -1,0 +1,13 @@
+.works__tittle{
+    margin-top: 2rem;
+    color: black;
+    text-align: center;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+.works__group{
+    display: flex;
+    margin: 1rem 5rem;
+    gap: 10px;
+    justify-content: center;
+}
