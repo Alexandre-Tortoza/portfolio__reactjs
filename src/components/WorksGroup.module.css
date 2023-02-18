@@ -1,0 +1,6 @@
+.works__group{
+    display: flex;
+    margin: 1rem 5rem;
+    gap: 10px;
+    justify-content: center;
+}
