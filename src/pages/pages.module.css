@@ -1,0 +1,17 @@
+
+.container{
+align-items: center;
+    padding: 1rem 10rem;
+    text-align: center;
+}
+.container > *{
+    color: black;
+    padding-bottom: 1rem;
+}
+.bnt{
+    color: #f2c49b;
+    margin: 22rem;
+    padding: .5rem;
+    border-radius: 15px;
+    background-color: #663399;
+}
