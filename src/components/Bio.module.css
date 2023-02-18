@@ -1,10 +1,41 @@
-.bio *{
-    color: black;
-    margin: 1rem 7rem;
-}
 
+.bioAndSkills{
+    display: flex;
+    color: black;
+    margin: 3rem 7rem;
+    justify-content: center;
+    gap: 100px;
+}
+.bioAndSkills *{
+    color: black;
+}
+.bio{
+    max-width: 40%;
+}
 .bio__tittle{
     font-size: 2.5rem;
     text-transform: uppercase;
+
+}
+.skills__tittle{
+    font-weight: 200;
+    letter-spacing: .2rem;
     
+}
+
+.main__skills{
+    display: flex;
+    gap: 25px;
+}
+.main__skills > li{
+    display: flex;
+    font-size: 1rem;
+    list-style: none;
+    align-items: center;
+}
+.C{
+    color:#4A1B8C ;
+    font-weight: 900;
+    font-size: 25px;
+    margin: 0 5px;
 }
