@@ -1,0 +1,43 @@
+.header{
+    background-color: rebeccapurple;
+}
+.aboutMe{
+    margin: 1rem 7rem;
+    display: flex; justify-content: space-between;
+    align-items: center;
+    padding-bottom: 2rem;
+}
+.aboutMe__container{
+    max-width: 60%;
+}
+.aboutMe__myName{
+    
+    font-size: 2.5rem;
+    position: relative;
+    text-transform: uppercase;
+
+}
+.span{
+    font-weight: 100;
+    font-size: 1rem;
+    margin-left:3rem;
+    letter-spacing: .5rem;
+}
+.span::before{
+    content: "";
+    display: block;
+    width: 30px;
+    height: 3px;
+    background-color: #F2C49B;
+    position: absolute;
+    top:32px;
+    left: 10px;
+}
+
+.icons{
+    margin: 1rem 0;
+    display: flex;
+    gap: 10px;
+    color: red;
+}
+

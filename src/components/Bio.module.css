@@ -1,0 +1,10 @@
+.bio *{
+    color: black;
+    margin: 1rem 7rem;
+}
+
+.bio__tittle{
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    
+}

@@ -1,0 +1,25 @@
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 1rem 0rem 1rem;
+    text-align: center;
+    align-items: center;
+
+}
+
+.navigation>ul{
+    display: flex;
+    list-style: none;
+    gap: 40px;  
+}
+.navigation>ul>li>a{
+    font-weight: lighter;
+    font-size: 1.4rem;
+}
+.navigation>h1{
+    font-size: 2rem;
+    font-weight: normal;
+}
+.navigation>div{
+
+}
