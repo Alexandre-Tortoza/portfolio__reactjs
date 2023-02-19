@@ -7,7 +7,7 @@ function Bio(){
     return(
     <div className={styles.bioAndSkills}>
         <div className={styles.bio}>
-        <h2 className={styles.bio__tittle}>
+        <h2 id="bio" className={styles.bio__tittle}>
             Bio
         </h2>
         <p>Desde os meus nove anos, sou apaixonado por computadores. Com o apoio dos meus pais, comecei a me fascinar com o funcionamento de tudo aquilo. Foi somente em 2020, com o início da pandemia, que decidi aprender coisas novas e foi aí que o meu interesse pela programação surgiu. De imediato, soube que era o caminho que queria seguir na minha carreira. Em 2022, comecei a faculdade e desde então tenho me dedicado a aprimorar meus conhecimentos e habilidades em programação.</p>

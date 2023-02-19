@@ -14,7 +14,7 @@ import {
 function Works() {
     return (
         <>
-        <h2 className={styles.works__tittle}>Alguns Projetos:</h2>
+        <h2 id="work" className={styles.works__tittle}>Alguns Projetos:</h2>
     <Router>
         <Routes>
             <Route path="/" element={<WorkGroup/>} />

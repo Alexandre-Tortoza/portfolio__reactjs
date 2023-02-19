@@ -7,12 +7,12 @@ function NavBar(){
         <h1>Alexmrqr</h1>
 
         <ul>
-            <li><a>Sobre mim </a></li>
-            <li><a>Portfolio</a></li>
-            <li><a>Contato</a></li>
+            <li><a href="#bio">Sobre mim </a></li>
+            <li><a href="#work">Portfolio</a></li>
+            <li><a href="#contato">Contato</a></li>
         </ul>
 
-        <div>Linkedin</div>
+        <div><a target="_blank" href="https://www.linkedin.com/in/alexandre-marques-a7195724b/">Linkedin</a></div>
 
         </nav>
         </>
