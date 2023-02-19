@@ -8,7 +8,7 @@ function NavBar(){
                 <h6>Contato</h6>
                 <ul>
                     <li><a href="mailto:a.marquestortoza@gmail.com"></a>a.marquestortoza@gmail.com</li>
-                    <li><a href="tel:41992081308">(41) 99209-1308</a></li>
+                    <li><a href="tel:41992081308">(41) 99208-1308</a></li>
                 </ul>
             </div>
         </footer>
