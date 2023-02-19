@@ -1,7 +1,24 @@
+
+
 .works__tittle{
     margin-top: 2rem;
     color: black;
     text-align: center;
     font-size: 2rem;
     text-transform: uppercase;
+}
+.mob__groupsON{
+    display: none;
+}
+@media (max-width: 700px){
+    .mob__groupsOFF{
+        display: none;
+    }
+    .mob__groupsON{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content:center;
+
+    }
 }

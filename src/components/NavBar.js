@@ -6,7 +6,7 @@ function NavBar(){
         <nav className={styles.navigation}>
         <h1>Alexmrqr</h1>
 
-        <ul>
+        <ul className={styles.menuLinks}>
             <li><a href="#bio">Sobre mim </a></li>
             <li><a href="#work">Portfolio</a></li>
             <li><a href="#contato">Contato</a></li>

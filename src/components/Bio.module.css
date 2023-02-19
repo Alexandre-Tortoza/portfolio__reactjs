@@ -39,3 +39,21 @@
     font-size: 25px;
     margin: 0 5px;
 }
+
+@media (max-width: 700px){
+    .bioAndSkills{
+        display: block;
+        margin: 20px;
+    }
+    .bio{
+        max-width: 100%;
+        margin-bottom: 1.5rem;
+    }
+    .main__skills > li{
+        display: block;
+    }
+
+
+
+
+}
