@@ -1,6 +1,12 @@
+
 .works__group{
     display: flex;
     margin: 1rem 5rem;
-    gap: 10px;
+    gap: 40px;
     justify-content: center;
 }
+.works__group >*{
+    border: 2px solid black;
+    box-shadow: 5px 5px 0 #663399;
+}
+

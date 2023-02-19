@@ -8,10 +8,36 @@ align-items: center;
     color: black;
     padding-bottom: 1rem;
 }
+.container > h3{
+    font-size: 2rem;
+    font-weight: 500;
+}
+.container >a{
+    font-size: 1rem;
+    font-weight: 500;
+    color: #663399;
+    text-decoration: underline;
+}
+.container >div{
+   margin: 2rem;
+}
+.container >div>iframe{
+border: 2px solid black; 
+box-shadow: 5px 5px 0 #f2c49b;
+}
+
 .bnt{
     color: #f2c49b;
     margin: 22rem;
-    padding: .5rem;
+    padding: .6rem;
     border-radius: 15px;
     background-color: #663399;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: .2rem;
 }
+/* .link{
+    margin: 2rem;
+    background-color: red;
+    padding: 10rem;
+} */
