@@ -3,7 +3,7 @@ import loginpage from "./../images/loginPage.jpg"
 import styles from "./Works.module.css"
 import WorkGroup from "./WorkGroup";
 import Works__VetCare from "../pages/Works__VetCare";
-import Works__LoginPage from '../pages/Works__LoginPage'
+import Works__LoginPage from "./../pages/Works__LoginPage"
 import {
     BrowserRouter as Router,
     Routes,
