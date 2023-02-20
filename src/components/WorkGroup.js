@@ -8,7 +8,7 @@ function WorkGroup(){
     return(
         <>
         <div className={styles.works__group}>
-            <Link to="/Works/LoginPage"><img  src={loginPage}/></Link>
+            <Link to="/works/loginpage"><img  src={loginPage}/></Link>
             <Link to="/works/vetcare"><img src={vetcare}/></Link>
 
         </div>
